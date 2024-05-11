@@ -8,6 +8,6 @@ Window {
     title: qsTr("Hello World")
     Text {
         anchors.centerIn: parent
-        text: "HI"
+        text: "HELLO"
     }
 }
